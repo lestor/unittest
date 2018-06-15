@@ -1,5 +1,5 @@
 {
-	"name":        "kohana/unittest",
+	"name":        "lestor/unittest",
 	"type":        "kohana-module",
 	"description": "PHPUnit integration for running unit tests on the Kohana framework",
 	"homepage":    "http://kohanaframework.org",
